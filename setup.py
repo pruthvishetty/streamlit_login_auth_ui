@@ -8,13 +8,13 @@ from setuptools import find_packages
 setup(
     name='streamlit_login_auth_ui',
 
-    author='Gauri Prabhakar',
+    author='Gauri Prabhakar & Pruthvi Shetty',
 
     author_email='prabhakargauri10@gmail.com',
 
     version='0.1.0',
 
-    description='A streamlit library which provides a Login/Sign-Up UI with an option to reset password, also supports cookies.',
+    description='A streamlit library which provides a Login/Sign-Up UI with an option to reset password, also supports cookies. (Cache issue fixed).',
 
     # long_description=long_description,
 
