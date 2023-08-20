@@ -27,8 +27,7 @@ setup(
         'streamlit_lottie',
         'extra_streamlit_components',
         'streamlit_option_menu',
-        'trycourier',
-        'git+https://github.com/pruthvishetty/streamlit-cookies-manager.git',
+        'trycourier'
     ],
 
     keywords='streamlit, machine learning, login, sign-up, authentication, cookies',
